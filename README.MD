@@ -1,0 +1,1 @@
+docker build --build-arg git_url=https://github.com/your/repo.git -t your_image_name .
